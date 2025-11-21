@@ -16,6 +16,8 @@ Install and dependencies
 * https://github.com/laramies/theHarvester/wiki/Installation
 
 Install uv:
+> [`uv`](https://github.com/astral-sh/uv) is a fast Python package manager and virtual environment tool used to manage dependencies and run theHarvester efficiently. It is required for setting up and running the project as described below.
+
    ```bash
    curl -LsSf https://astral.sh/uv/install.sh | sh
    ```
